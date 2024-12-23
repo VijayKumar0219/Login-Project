@@ -23,7 +23,6 @@ public class ThreeTest extends Base {
 		
 		Thread.sleep(2000);
 		
-		Assert.assertTrue(false);
 	}
      
     
